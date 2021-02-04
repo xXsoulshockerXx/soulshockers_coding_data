@@ -1,8 +1,8 @@
-# Beginner's Intro to Python
+# xXsoulshockerXx's coding data
 
-A collection of python scripts and tutorials to help you learn to code in Python. Here I will have some of the basics with comments and descriptions to get you going.
+Repo for all the coding work xXsoulshockerXx has worked on and made available for teaching and/or public use.
 
-## Basics
+## Python Programming Basics
 
 - Variables
 - Strings
@@ -13,7 +13,7 @@ A collection of python scripts and tutorials to help you learn to code in Python
 - IF Statements
 - While Loops
 
-## Diving In
+## Diving In with Python
 
 - Working with Lists
 - Functions
@@ -21,9 +21,10 @@ A collection of python scripts and tutorials to help you learn to code in Python
 - Files
 - Working with IF Statements
 
-## Examples
+## Python Examples
 
 To further hone in on your skills and to advance, we will walk you through on how to format your code. We will also go through practice examples.
 
 - Sending Basic Emails with Python
-- Random Word Generation and Dictionary Look Up
+- Secret Password Generator
+- Rock, Paper, Scissors Game
