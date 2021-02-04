@@ -2,6 +2,10 @@
 
 Repo for all the coding work xXsoulshockerXx has worked on and made available for teaching and/or public use.
 
+## VS Code Snippets
+
+I have included my snippets data that I use for my VS Code Instance. Easiest way of adding it to your program is to go through File - Preferences - User Snippets. Click on each type then copy and paste.
+
 ## Python Programming Basics
 
 - Variables
@@ -28,3 +32,4 @@ To further hone in on your skills and to advance, we will walk you through on ho
 - Sending Basic Emails with Python
 - Secret Password Generator
 - Rock, Paper, Scissors Game
+
